@@ -1,7 +1,7 @@
 const arrayText = ["Cleidsan Dos Santos Freire", "Desenvolvedor Back-End"];
 
-const writeTime = 100;
-const removeTime = 500;
+const writeTime = 90;
+const removeTime = 450;
 
 let indexSentence = 0;
 let indexChar = 0;
